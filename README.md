@@ -1,4 +1,4 @@
-# Elegant Digital Clock 🕒
+# Digital Clock 🕒
 
 A modern, theme-customizable digital clock built with Python's Tkinter. This project offers light, dark, and galaxy themes, an animated time display, and a seconds progress bar — all wrapped in an elegant GUI.
 
