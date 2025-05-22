@@ -5,14 +5,10 @@ A modern, theme-customizable digital clock built with Python's Tkinter. This pro
 ## ✨ Features
 
 - ⏱ Live Time and Date Display
-- 🎨 Theme Switcher (Light, Dark, Galaxy)
-- 🔄 Smooth Breathing Animation
-- 📊 Seconds Progress Bar
-- 🧩 Responsive UI with `tkinter` and `ttk`
-
-## 📷 Screenshot
-
-> _Add a screenshot here showing all themes side by side._
+- Theme Switcher (Light, Dark, Galaxy)
+- Smooth Breathing Animation
+- Seconds Progress Bar
+- Responsive UI with `tkinter` and `ttk`
 
 ## 🚀 Getting Started
 
